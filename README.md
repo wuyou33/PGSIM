@@ -1,2 +1,2 @@
-# PGSIM
+# PowerNet
 
