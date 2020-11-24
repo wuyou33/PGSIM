@@ -15,6 +15,9 @@ A python implementation of IEEE-34 bus and a 20-DGs Microgrid system with Numba 
      <br>Fig.1 System diagrams of the two microgrid simulation platforms: (a) microgrid-6; and (b) microgrid-20.
 </p>
 
+## Usage
+To run the code, just run it via `python main.py`.  The config files contain the parameters for MARL policies.
+
 
 ## Reference
 [1] Bidram, Ali, et al. "Distributed cooperative secondary control of microgrids using feedback linearization." IEEE Transactions on Power Systems 28.3 (2013): 3462-3470.
