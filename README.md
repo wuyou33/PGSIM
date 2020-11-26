@@ -18,6 +18,17 @@ A python implementation of IEEE-34 bus and a 20-DGs Microgrid system with Numba 
 ## Usage
 To run the code, just run it via `python main.py`.  The config files contain the parameters for MARL policies.
 
+## Cite
+```
+@misc{chen2020powernet,
+      title={PowerNet: Multi-agent Deep Reinforcement Learning for Scalable Powergrid Control}, 
+      author={Dong Chen and Zhaojian Li and Tianshu Chu and Rui Yao and Feng Qiu and Kaixiang Lin},
+      year={2020},
+      eprint={2011.12354},
+      archivePrefix={arXiv},
+      primaryClass={eess.SY}
+}
+```
 
 ## Reference
 [1] Bidram, Ali, et al. "Distributed cooperative secondary control of microgrids using feedback linearization." IEEE Transactions on Power Systems 28.3 (2013): 3462-3470.
